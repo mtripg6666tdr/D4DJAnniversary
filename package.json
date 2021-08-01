@@ -1,0 +1,12 @@
+{
+  "name": "d4djanniversary",
+  "version": "1.0.0",
+  "description": "D4DJプロジェクトに関する記念日のデータが取得できます。",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node lib/index.js"
+  },
+  "author": "mtripg6666tdr",
+  "license": "MIT"
+}
