@@ -23,8 +23,8 @@ var data = require("D4DJAnniversary").load();
 ```
 ### module構文
 ```javascript
-import BGA from "D4DJAnniversary";
-var data = BGA.load();
+import D4A from "D4DJAnniversary";
+var data = D4A.load();
 ```
 ## 単純データファイルとして
 `data/main.csv`または`dist/main.json`をGitHubから直接ダウンロードして使用できます。
